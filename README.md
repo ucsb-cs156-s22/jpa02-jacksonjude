@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s22/STARTER-jacksonjude
 
-On Heroku: https://jpa02-jacksonjude.herokuapp.com
+On Heroku: https://jpa02-jcooley.herokuapp.com
 
 
 # About this repo
