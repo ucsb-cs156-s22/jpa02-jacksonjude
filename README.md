@@ -1,8 +1,10 @@
 # jpa02-jacksonjude
 
-Repo: https://ucsb-cs156-s22/STARTER-jacksonjude
+Repo: https://ucsb-cs156-s22/jpa02-jacksonjude
 
 On Heroku: https://jpa02-jcooley.herokuapp.com
+
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa02-jacksonjude
 
 
 # About this repo
